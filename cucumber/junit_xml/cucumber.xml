@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="34.748089">
+<testcase classname="Deals Map" name="Create deals using maps in data table" time="34.748089">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When title of login page is Free CRM........................................passed
+Then User enters username and password......................................passed
+Then User clicks on login button............................................passed
+Then User is on HomePage....................................................passed
+Then User moves to new deals page...........................................passed
+Then User enters deals data.................................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
